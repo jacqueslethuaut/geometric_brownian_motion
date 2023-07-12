@@ -1,6 +1,4 @@
-# geometric_brownian_motion
-
-Geometric Brownian Motion
+## Geometric Brownian Motion
 
 "Volatility clustering" is a common phenomenon in financial markets that has been widely observed and studied. 
 
