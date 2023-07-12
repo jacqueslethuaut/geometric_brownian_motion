@@ -25,7 +25,7 @@ It is characterized by two parameters:
 Mathematically, the GBM is typically described by the following stochastic differential equation:
 
 $$
-dSt​=μSt​dt+σSt​dWt​
+dS_t​=μS_t​dt+σS_t​dW_t​
 $$
 
 where:
