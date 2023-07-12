@@ -9,18 +9,18 @@ Large changes in asset prices (up or down) are likely to be followed by more lar
 This is of particular interest in the fields of asset pricing and risk management. 
 
 For example :
-    - if a stock's price has been highly volatile in the recent past, volatility clustering suggests that the stock's price is likely to continue to be highly volatile in the near future. 
+    - if a stock's price has been highly volatile in the recent past, volatility clustering suggests that the stock's price is likely to continue to be highly volatile in the near future.
     - This is important information for traders and investors who need to manage their risk.
 
 This phenomenon is not explained by simple models like the Geometric Brownian Motion model often used in finance, which assumes that returns are independently and identically distributed.
 
-Question : What is the Geomeric Brownian Motion model ?
+Question : What is the Geometric Brownian Motion model ?
 
 The Geometric Brownian Motion (GBM) is a stochastic process often used in finance to model stock prices or other factors. 
 
-It is characterized by two parameters: 
-- the drift rate  
-- the volatility.
+It is characterized by two parameters:
+- the drift rate
+- the volatility
 
 Mathematically, the GBM is typically described by the following stochastic differential equation:
 
