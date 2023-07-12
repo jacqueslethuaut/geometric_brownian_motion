@@ -29,6 +29,7 @@ Mathematically, the GBM is typically described by the following stochastic diffe
 $$
 dSt​=μSt​dt+σSt​dWt​
 $$
+
 where:
 - $St​$ represents the stock price at time $t$
 - $dSt$ represents the infinitesimal change in the stock price at time $t$
